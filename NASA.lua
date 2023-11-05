@@ -363,7 +363,7 @@ data = {
 },
 }
 }
-send(msg.chat_id,msg.id,"*◍ اهلاً بك عـزيـري الـمـطور ايـطالي* \n","md",true, false, false, true, reply_markup)
+send(msg.chat_id,msg.id,"*◍ اهلاً بك عـزيـري الـمـطور * \n","md",true, false, false, true, reply_markup)
 return false 
 end
 
